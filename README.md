@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jose Miguel</h1>
 <h3 align="center">A passionate full-stack developer in training from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josemi937" alt="josemi937" /></a> </p>
+
 
 - 📫 How to reach me **josemigarciadela77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jose miguel garcia de la cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose miguel garcia de la cruz" height="30" width="40" /></a>
-<a href="https://fb.com/josemi garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josemi garcia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-miguel-garcia-de-la-cruz-8b99411b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose miguel garcia de la cruz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/josemi.garcia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josemi garcia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
