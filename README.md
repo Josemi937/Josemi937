@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jose Miguel</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jose+Miguel" alt="Typing SVG" /></a>
 <h3 align="center">A passionate full-stack developer in training from Spain</h3>
 
 
@@ -16,6 +17,11 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josemi937&show_icons=true&locale=en&layout=compact" alt="josemi937" /></p>
+
+
+<h2 align="center"> Thanks for visiting. </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
 
 
