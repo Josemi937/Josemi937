@@ -3,7 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jose+Miguel;Be+welcome!++%F0%9F%98%84" alt="Typing SVG" /></a></div><h3 # 💫 About Me:
 A passionate full-stack developer in training from Spain.
 
-
+##✅ Description:
+I am a passionate Full-Stack Web Developer with hands-on experience in building dynamic, user-friendly applications. Skilled in both front-end and back-end technologies, I specialize in React, JavaScript, Bootstrap, and Python with Flask. My goal is to craft scalable, efficient, and intuitive web solutions that enhance user experience and deliver real-world value. I am always eager to learn new technologies, collaborate on innovative projects, and continue improving my skills to tackle complex challenges in the ever-evolving world of web development.
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/jose-miguel-garcia-de-la-cruz-8b99411b4) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/josemi.garcia1/)
 ## 📫 How to reach me **josemigarciadela77@gmail.com**
